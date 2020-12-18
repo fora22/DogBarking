@@ -10,4 +10,4 @@ Bark Bark - This repository is same as dog barking
 - 최한큐 : 남자 주인공
 - 이하나 : 여자 주인공
 - 이그리 : 남자 주인공
-- 팽대원 : 
+- 팽대원 : 빌런
