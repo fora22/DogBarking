@@ -11,3 +11,7 @@
 "어..근육이 멋지네.."
 
 "남자애는 머쓱해하며 자리로 돌아갔다."
+
+# 이미지 출처
+
+https://github.com/fora22/DogBarking/issues/1
