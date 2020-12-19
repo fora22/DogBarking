@@ -5,7 +5,7 @@
 
 남자애가 말했다.
 
-"뭐 임마"
+"뭐 임마."
 ![image](https://user-images.githubusercontent.com/48875566/102581341-b4fc9b00-4143-11eb-9b9a-feff8450fe79.png)
 
 "어..근육이 멋지네.."
