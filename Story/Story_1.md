@@ -12,6 +12,8 @@
 
 "남자애는 머쓱해하며 자리로 돌아갔다."
 
+최미나느 캥거루를 닮았다.
+
 # 이미지 출처
 
 https://github.com/fora22/DogBarking/issues/1
