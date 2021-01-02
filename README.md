@@ -14,6 +14,8 @@ Bark Bark - This repository is same as dog barking
 - 이그리 : 남자 주인공 2
 - 팽대원 : 빌런
 - 김경철 : 빌런 하수인 1
+- 븨 밀 기지(Be Mill Kiji) : 미정
+- 
 
 ## 장르
 **옴니버스 식으로 구성한다.**
