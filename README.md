@@ -16,6 +16,7 @@ Bark Bark - This repository is same as dog barking
 - 김경철 : 빌런 하수인 1
 - 븨 밀 기지(Be Mill Kiji) : 미정
 - 
+- 김갑수 : 식물형 외계인
 
 ## 장르
 **옴니버스 식으로 구성한다.**
