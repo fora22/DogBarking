@@ -14,8 +14,8 @@ Bark Bark - This repository is same as dog barking
 - 이그리 : 남자 주인공 2
 - 팽대원 : 빌런
 - 김경철 : 빌런 하수인 1
-- 븨 밀 기지(Be Mill Kiji) : 미정
-- 
+- 븨 밀 기지(Be Mill Kiji) : 독일 미소녀
+- 리마레 으엄(Limare Um) - '으'와 '어'의 중간 발음 : 이탈리아 미소녀
 - 김갑수 : 식물형 외계인
 
 ## 장르
