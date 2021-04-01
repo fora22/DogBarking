@@ -16,7 +16,7 @@ Bark Bark - This repository is same as dog barking
 - 김경철 : 빌런 하수인 1
 - 븨 밀 기지(Be Meal Kiji) : 독일 미소녀
 - 리마레 으엄(Limare Um) - '으'와 '어'의 중간 발음 : 이탈리아 미소녀
-- 김갑수 : 식물형 외계인
+- 김갑수 : 식물형 외계인 - 환경부 장관
 - 유태인 : 독재자(여의도의 판 옵티콘이 세워져 있는 세계관)
 
 
