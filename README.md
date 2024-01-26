@@ -25,4 +25,4 @@ Bark Bark - This repository is same as dog barking
 어느 하루는 스릴러, 어느 하루는 러브코미디, 어느 하루는 SF..
 
 # Contributing
-소설에 등장하길 원한다면 fora22@naver.com 으로 연락주세요~
+소설에 등장하길 원한다면 forapaeng1021@gmail.com 으로 연락주세요~
